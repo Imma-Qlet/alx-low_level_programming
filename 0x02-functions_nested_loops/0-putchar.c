@@ -1,14 +1,13 @@
-#include "main.h"
+include <main.h>
 
 /**
-* main - Entry starts
+* main - prints _putchar followed by a new line
 *
-* Return: Always 0 (Success)
+* Return: Always 0.
 */
 
 int main(void)
 {
-putchar(");
 _putchar(p);
 _putchar(u);
 _putchar(t);
