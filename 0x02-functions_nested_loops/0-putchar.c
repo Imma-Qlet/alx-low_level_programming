@@ -3,14 +3,11 @@
 /**
 * main - prints putchar followed by a new line
 *
-* Description: prints _putchar
-*
-* Return: Always 0 (Success)
+* Return: Always 0.
 */
 
 int main(void)
 {
-putchar(");
 _putchar(p);
 _putchar(u);
 _putchar(t);
